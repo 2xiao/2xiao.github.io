@@ -1,0 +1,1 @@
+import{_ as a,o as _,c as n,b as e,d as o}from"./app-rV4qjWj6.js";const t={},c=e("h1",{id:"_13-代理与负载均衡",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_13-代理与负载均衡","aria-hidden":"true"},"#"),o(" 13. 代理与负载均衡")],-1),r=[c];function s(d,i){return _(),n("div",null,r)}const h=a(t,[["render",s],["__file","12_proxies_and_load_balancing.html.vue"]]);export{h as default};

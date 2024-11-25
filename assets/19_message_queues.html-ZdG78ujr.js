@@ -1,0 +1,1 @@
+import{_ as s,o as _,c as a,b as e,d as t}from"./app-rV4qjWj6.js";const c={},o=e("h1",{id:"_20-消息队列",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_20-消息队列","aria-hidden":"true"},"#"),t(" 20. 消息队列")],-1),r=[o];function n(d,i){return _(),a("div",null,r)}const l=s(c,[["render",n],["__file","19_message_queues.html.vue"]]);export{l as default};
