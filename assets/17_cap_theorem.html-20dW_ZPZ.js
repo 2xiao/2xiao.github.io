@@ -1,1 +1,0 @@
-import{_ as a,o as t,c,b as e,d as _}from"./app-Vo9sbpy9.js";const o={},r=e("h1",{id:"_18-cap-定理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_18-cap-定理","aria-hidden":"true"},"#"),_(" 18. CAP 定理")],-1),s=[r];function n(d,h){return t(),c("div",null,s)}const l=a(o,[["render",n],["__file","17_cap_theorem.html.vue"]]);export{l as default};

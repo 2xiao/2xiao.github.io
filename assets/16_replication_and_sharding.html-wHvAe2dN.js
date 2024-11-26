@@ -1,1 +1,0 @@
-import{_ as a,o as _,c as t,b as e,d as n}from"./app-Vo9sbpy9.js";const r={},c=e("h1",{id:"_17-分片与复制",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_17-分片与复制","aria-hidden":"true"},"#"),n(" 17. 分片与复制")],-1),o=[c];function s(d,i){return _(),t("div",null,o)}const l=a(r,[["render",s],["__file","16_replication_and_sharding.html.vue"]]);export{l as default};

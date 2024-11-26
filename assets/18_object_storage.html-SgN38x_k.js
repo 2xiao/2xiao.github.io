@@ -1,1 +1,0 @@
-import{_ as t,o as _,c as a,b as e,d as o}from"./app-Vo9sbpy9.js";const c={},r=e("h1",{id:"_19-对象存储",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_19-对象存储","aria-hidden":"true"},"#"),o(" 19. 对象存储")],-1),s=[r];function n(d,i){return _(),a("div",null,s)}const l=t(c,[["render",n],["__file","18_object_storage.html.vue"]]);export{l as default};
