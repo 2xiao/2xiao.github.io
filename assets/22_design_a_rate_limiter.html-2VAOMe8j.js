@@ -1,0 +1,1 @@
+import{_,o as t,c as a,b as e,d as r}from"./app-Vo9sbpy9.js";const s={},c=e("h1",{id:"_2-设计一个限流器",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2-设计一个限流器","aria-hidden":"true"},"#"),r(" 2. 设计一个限流器")],-1),n=[c];function o(i,d){return t(),a("div",null,n)}const h=_(s,[["render",o],["__file","22_design_a_rate_limiter.html.vue"]]);export{h as default};

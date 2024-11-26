@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as t,b as e,d as _}from"./app-Vo9sbpy9.js";const a={},n=e("h1",{id:"_12-cdns",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_12-cdns","aria-hidden":"true"},"#"),_(" 12. CDNs")],-1),d=[n];function o(r,i){return s(),t("div",null,d)}const l=c(a,[["render",o],["__file","11_cdns.html.vue"]]);export{l as default};

@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as _,b as e,d as a}from"./app-rV4qjWj6.js";const c={},o=e("h1",{id:"_15-sql",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_15-sql","aria-hidden":"true"},"#"),a(" 15. SQL")],-1),r=[o];function n(d,l){return t(),_("div",null,r)}const h=s(c,[["render",n],["__file","14_sql.html.vue"]]);export{h as default};

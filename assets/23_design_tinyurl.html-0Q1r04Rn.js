@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as r,b as e,d as _}from"./app-Vo9sbpy9.js";const a={},s=e("h1",{id:"_3-设计-tinyurl-系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_3-设计-tinyurl-系统","aria-hidden":"true"},"#"),_(" 3. 设计 TinyUrl 系统")],-1),c=[s];function i(o,d){return n(),r("div",null,c)}const h=t(a,[["render",i],["__file","23_design_tinyurl.html.vue"]]);export{h as default};

@@ -1,1 +1,0 @@
-import{_ as d,o as s,c,b as e,d as o}from"./app-rV4qjWj6.js";const r={},_=e("h1",{id:"_5-设计-discord-系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_5-设计-discord-系统","aria-hidden":"true"},"#"),o(" 5. 设计 Discord 系统")],-1),t=[_];function a(i,n){return s(),c("div",null,t)}const l=d(r,[["render",a],["__file","25_design_discord.html.vue"]]);export{l as default};

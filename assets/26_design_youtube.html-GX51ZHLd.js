@@ -1,1 +1,0 @@
-import{_ as t,o,c as _,b as e,d as a}from"./app-rV4qjWj6.js";const s={},c=e("h1",{id:"_6-设计-youtube-系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_6-设计-youtube-系统","aria-hidden":"true"},"#"),a(" 6. 设计 YouTube 系统")],-1),n=[c];function r(d,u){return o(),_("div",null,n)}const h=t(s,[["render",r],["__file","26_design_youtube.html.vue"]]);export{h as default};
