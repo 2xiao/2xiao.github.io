@@ -1,1 +1,0 @@
-import{_ as a,o as c,c as _,b as e,d as r}from"./app-z3RIiqMA.js";const t={},d=e("h1",{id:"_21-map-reduce",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_21-map-reduce","aria-hidden":"true"},"#"),r(" 21. Map Reduce")],-1),o=[d];function s(n,i){return c(),_("div",null,o)}const h=a(t,[["render",s],["__file","20_map_reduce.html.vue"]]);export{h as default};

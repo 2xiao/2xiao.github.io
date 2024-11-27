@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as t,b as e,d as _}from"./app-z3RIiqMA.js";const a={},n=e("h1",{id:"_16-nosql",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_16-nosql","aria-hidden":"true"},"#"),_(" 16. NoSQL")],-1),c=[n];function r(d,l){return s(),t("div",null,c)}const h=o(a,[["render",r],["__file","15_nosql.html.vue"]]);export{h as default};

@@ -1,1 +1,0 @@
-import{_,o as a,c as t,b as e,d as s}from"./app-z3RIiqMA.js";const o={},r=e("h1",{id:"_9-设计一个键值存储",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_9-设计一个键值存储","aria-hidden":"true"},"#"),s(" 9. 设计一个键值存储")],-1),c=[r];function n(d,i){return a(),t("div",null,c)}const h=_(o,[["render",n],["__file","29_design_a_key_value_store.html.vue"]]);export{h as default};
