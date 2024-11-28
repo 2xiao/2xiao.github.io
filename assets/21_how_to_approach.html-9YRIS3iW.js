@@ -1,1 +1,0 @@
-import{_,o as a,c as o,b as e,d as t}from"./app-9qv3I0TR.js";const c={},r=e("h1",{id:"_1-如何着手",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_1-如何着手","aria-hidden":"true"},"#"),t(" 1. 如何着手")],-1),s=[r];function n(d,h){return a(),o("div",null,s)}const l=_(c,[["render",n],["__file","21_how_to_approach.html.vue"]]);export{l as default};
