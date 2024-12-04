@@ -1,1 +1,0 @@
-import{_ as t,o as r,c as _,b as e,d as a}from"./app-vBvXT2GU.js";const s={},c=e("h1",{id:"_4-设计-twitter-系统",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_4-设计-twitter-系统","aria-hidden":"true"},"#"),a(" 4. 设计 Twitter 系统")],-1),i=[c];function n(o,d){return r(),_("div",null,i)}const l=t(s,[["render",n],["__file","24_design_twitter.html.vue"]]);export{l as default};
