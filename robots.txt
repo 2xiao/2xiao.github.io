@@ -1,5 +1,5 @@
 
-User-agent:*
-Disallow:
+User-agent: *
+Disallow: /nogooglebot/
 
 Sitemap: https://2xiao.github.io/sitemap.xml
