@@ -8,7 +8,6 @@
 
 ```js
 typeof operand;
-typeof operand;
 ```
 
 `operand`表示对象或原始值的表达式，其类型将被返回

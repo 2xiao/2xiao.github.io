@@ -82,17 +82,17 @@ function Parent() {
 function Child() {
 	this.type = 'child2';
 }
-Child1.prototype = new Parent();
+Child.prototype = new Parent();
 console.log(new Child());
 ```
 
 上面代码看似没问题，实际存在潜在问题
 
 ```js
-var s1 = new Child2();
-var s2 = new Child2();
+var s1 = new Child();
+var s2 = new Child();
 s1.play.push(4);
-console.log(s1.play, s2.play); // [1,2,3,4]
+console.log(s1.play, s2.play); // [1, 2, 3, 4], [1, 2, 3, 4]
 ```
 
 改变`s1`的`play`属性，会发现`s2`也跟着发生变化了，这是因为两个实例使用的是同一个原型对象，内存空间是共享的
@@ -102,20 +102,20 @@ console.log(s1.play, s2.play); // [1,2,3,4]
 借助 `call `调用`Parent`函数
 
 ```js
-function Parent() {
+function Parent2() {
 	this.name = 'parent1';
 }
 
-Parent.prototype.getName = function () {
+Parent2.prototype.getName = function () {
 	return this.name;
 };
 
-function Child() {
-	Parent1.call(this);
+function Child2() {
+	Parent2.call(this);
 	this.type = 'child';
 }
 
-let child = new Child();
+let child = new Child2();
 console.log(child); // 没问题
 console.log(child.getName()); // 会报错
 ```

@@ -1095,7 +1095,7 @@ new Promise((resolve) => {
 **分析**：
 
 - `async1()` 执行时，`promise1` 打印后，`await` 暂停执行。
-- `promise2` 被同步调用，`timer` 在微任务队列中的 `setTimeout` 执行。
+- `promise2` 被同步调用，`timer` 在宏任务队列中执行。
 
 ---
 
