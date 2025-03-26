@@ -29,7 +29,7 @@ headerDepth: 0
 
 ### 关于书中的代码
 
-教程地址：[https://2xiao.github.io/my-vue](https://2xiao.github.io/my-vue)
+教程地址：[https://wangfuyou.com/my-vue](https://wangfuyou.com/my-vue)
 
 源代码地址：[https://github.com/2xiao/my-vue](https://github.com/2xiao/my-vue)
 

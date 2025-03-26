@@ -71,13 +71,13 @@
 
 - **LRU（Least Recently Used）：**
   - 移除最近最少使用的缓存条目，Redis 默认使用 LRU。
-  - 详见：[LeetCode 146. LRU 缓存](https://2xiao.github.io/leetcode-js/problem/0146)
+  - 详见：[LeetCode 146. LRU 缓存](https://wangfuyou.com/leetcode-js/problem/0146)
 - **LFU（Least Frequently Used）：**
   - 移除使用频率最低的缓存条目。
-  - 详见：[LeetCode 460. LFU 缓存](https://2xiao.github.io/leetcode-js/problem/0460)
+  - 详见：[LeetCode 460. LFU 缓存](https://wangfuyou.com/leetcode-js/problem/0460)
 - **FIFO（First In First Out）：**
   - 移除最早加入的缓存条目。
-  - 详见：[LeetCode 622. 设计循环队列](https://2xiao.github.io/leetcode-js/problem/0622)
+  - 详见：[LeetCode 622. 设计循环队列](https://wangfuyou.com/leetcode-js/problem/0622)
 - **TTL（Time-to-Live）：**
   - 设置缓存的存活时间，到期后自动移除。
 

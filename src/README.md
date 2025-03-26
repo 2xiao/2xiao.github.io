@@ -12,7 +12,7 @@ heroText: LeetCode-JS
 tagline: 算法 + 框架源码 + 系统设计 + 前端面试题 = Offer
 actions:
   - text: 🧭 LeetCode 通关指南
-    link: https://2xiao.github.io/leetcode-js/
+    link: https://wangfuyou.com/leetcode-js/
     type: primary
 
   - text: 🍭 手写 React 源码
@@ -36,32 +36,32 @@ highlights:
       - title: LeetCode 题解
         icon: code
         details: 手把手带你完成 1000 道算法题，给出详细的解题思路、复杂度分析和代码
-        link: https://2xiao.github.io/leetcode-js/problem/
+        link: https://wangfuyou.com/leetcode-js/problem/
 
       - title: 剑指 Offer
         icon: hot
         details: 《剑指 Offer（第 2 版）》真题详解
-        link: https://2xiao.github.io/leetcode-js/offer/
+        link: https://wangfuyou.com/leetcode-js/offer/
 
       - title: 剑指 Offer II
         icon: ability
         details: 《剑指 Offer（专项突破）》真题详解
-        link: https://2xiao.github.io/leetcode-js/offer2/
+        link: https://wangfuyou.com/leetcode-js/offer2/
 
       - title: 程序员面试金典
         icon: keyboard
         details: 《程序员面试金典（第 6 版）》真题详解
-        link: https://2xiao.github.io/leetcode-js/interview/
+        link: https://wangfuyou.com/leetcode-js/interview/
 
       - title: 算法笔记
         icon: note
         details: 把所有常见算法技巧都总结成框架模板，致力于把算法讲清楚
-        link: https://2xiao.github.io/leetcode-js/book/intro
+        link: https://wangfuyou.com/leetcode-js/book/intro
 
       - title: 专项训练
         icon: strong
         details: 面试前必刷的高频题，迅速练出肌肉记忆，掌握算法
-        link: https://2xiao.github.io/leetcode-js/plan/
+        link: https://wangfuyou.com/leetcode-js/plan/
 
   - header: 手写 React 源码
     description: 深入理解 React 源码，带你从零实现 React v18 的核心功能，构建自己的 React 库。
@@ -207,7 +207,7 @@ highlights:
 
       - title: 数据结构与算法
         icon: code
-        link: https://2xiao.github.io/leetcode-js/
+        link: https://wangfuyou.com/leetcode-js/
 
       - title: 系统设计
         icon: structure

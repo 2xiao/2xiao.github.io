@@ -8,11 +8,11 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 
 ## 在线访问
 
-👉 [**🧭 LeetCode 通关指南**](https://2xiao.github.io/leetcode-js/)  
-👉 [**🍭 React 源码**](https://2xiao.github.io/my-react/)  
-👉 [**🤡 Vue 源码**](https://2xiao.github.io/my-vue/)  
-👉 [**🚀 系统设计入门**](https://2xiao.github.io/system-design/)  
-👉 [**🔥 前端面试题**](https://2xiao.github.io/interview/)
+👉 [**🧭 LeetCode 通关指南**](https://wangfuyou.com/leetcode-js/)  
+👉 [**🍭 React 源码**](https://wangfuyou.com/my-react/)  
+👉 [**🤡 Vue 源码**](https://wangfuyou.com/my-vue/)  
+👉 [**🚀 系统设计入门**](https://wangfuyou.com/system-design/)  
+👉 [**🔥 前端面试题**](https://wangfuyou.com/interview/)
 
 ## 项目亮点
 
@@ -28,7 +28,7 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 - **算法笔记**: 总结常用算法技巧，形成知识框架
 - **专项训练**: 高频面试题，助你建立肌肉记忆
 
-👉 [查看详情](https://2xiao.github.io/leetcode-js/)
+👉 [查看详情](https://wangfuyou.com/leetcode-js/)
 
 ---
 
@@ -44,7 +44,7 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 - **Hook 实现与事件系统**: 掌握核心 Hook 及事件处理机制
 - **Diff 算法与同步调度**: 探索高效 Diff 实现与调度流程
 
-👉 [查看教程](https://2xiao.github.io/my-react/)
+👉 [查看教程](https://wangfuyou.com/my-react/)
 
 ---
 
@@ -60,7 +60,7 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 - **组件渲染原理**: 熟悉 Vue3 组件渲染与挂载流程
 - **模板编译原理**: 掌握编译优化与 AST 的生成
 
-👉 [立即学习](https://2xiao.github.io/my-vue/)
+👉 [立即学习](https://wangfuyou.com/my-vue/)
 
 ---
 
@@ -76,7 +76,7 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 - **分布式系统**：一致性哈希、消息队列、MapReduce 等
 - **系统设计实战**：设计限流器、短链接、Twitter、YouTube 等经典题目
 
-👉 [立即学习](https://2xiao.github.io/system-design/)
+👉 [立即学习](https://wangfuyou.com/system-design/)
 
 ---
 
@@ -90,7 +90,7 @@ LeetCode-JS 是一个帮助前端开发者系统提升算法能力、理解框�
 - **数据结构与算法**：算法笔记、LeetCode 题解、剑指 Offer
 - **系统设计与行为面试**
 
-👉 [开始准备](https://2xiao.github.io/interview/)
+👉 [开始准备](https://wangfuyou.com/interview/)
 
 ---
 

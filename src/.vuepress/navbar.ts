@@ -4,7 +4,7 @@ export default navbar([
 	{
 		text: 'LeetCode 通关指南',
 		icon: 'code',
-		link: 'https://2xiao.github.io/leetcode-js/',
+		link: 'https://wangfuyou.com/leetcode-js/',
 		target: '_self'
 	},
 	{
