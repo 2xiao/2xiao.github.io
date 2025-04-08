@@ -128,30 +128,30 @@ export default sidebar({
 				{
 					text: '算法笔记',
 					icon: 'repo',
-					link: 'https://2xiao.github.io/leetcode-js/book/',
+					link: 'https://wangfuyou.com/leetcode-js/book/',
 					target: '_self'
 				},
 				{
 					text: 'LeetCode 题解',
 					icon: 'code',
-					link: 'https://2xiao.github.io/leetcode-js/problem/',
+					link: 'https://wangfuyou.com/leetcode-js/problem/',
 					target: '_self'
 				},
 				{
 					text: '剑指 Offer',
 					icon: 'keyboard',
-					link: 'https://2xiao.github.io/leetcode-js/offer/',
+					link: 'https://wangfuyou.com/leetcode-js/offer/',
 					target: '_self'
 				},
 				{
 					text: '剑指 Offer II',
 					icon: 'template',
-					link: 'https://2xiao.github.io/leetcode-js/offer2/',
+					link: 'https://wangfuyou.com/leetcode-js/offer2/',
 					target: '_self'
 				},
 				{
 					text: '程序员面试金典',
-					link: 'https://2xiao.github.io/leetcode-js/interview/',
+					link: 'https://wangfuyou.com/leetcode-js/interview/',
 					icon: 'result',
 					target: '_self'
 				}
